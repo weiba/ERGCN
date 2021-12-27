@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnreachableCodeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="urllib2" />
+          <option value="day03.text4.createPlot.ax1" />
+          <option value="day03.text4.plotTree.x0ff" />
+          <option value="day03.text4.plotTree.totalW" />
+          <option value="day03.text4.plotTree.totalD" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
